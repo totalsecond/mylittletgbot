@@ -1,0 +1,6 @@
+bot:
+  token: TOKEN_GOES_HERE
+
+plugins:
+  - basic
+  - weather
