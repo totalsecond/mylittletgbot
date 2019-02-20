@@ -1,13 +1,9 @@
 # Project Specific
-bot.conf.yml
-plugins.conf.yml
+config.yml
 
 # VS Code
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
